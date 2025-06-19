@@ -1,0 +1,2 @@
+# Deploy-a-3-tier-Microservice-Voting-App-using-ArgoCD-and-Azure-DevOps-Pipeline
+Deploy scalable, highly available, secure microservices-based voting app using cloud-native architecture. Demonstrates advanced CI/CD by orchestrating containerized microservices across layers with AKS, Azure Container Registry, and Azure DevOps. Ensures availability, scalability, security, and public access via GitOps with ArgoCD.
